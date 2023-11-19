@@ -1,0 +1,4 @@
+venv/
+talktoyourlogs/main/key
+talktoyourlogs/model.safetensors
+talktoyourlogs/tokenizer.json
